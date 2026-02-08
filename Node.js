@@ -29,3 +29,9 @@ Backend for React / Angular / Vue apps
 Node.js runs on a single thread, but it can handle thousands of users.
 It achieves this using asynchronous, non-blocking operations.
 Long tasks do not block other requests.
+  --------------------------------------------
+  Event-Driven Architecture
+
+Node.js works on an event loop.
+When an event occurs (request, file read, timer), a callback is executed.
+This model improves performance and responsiveness.
