@@ -14,15 +14,14 @@ Receives HTML, CSS, and JavaScript files.
 Renders (displays) the webpage on your screen.
 Executes JavaScript to make the page interactive.
 --------------------------------------------------
-🛠 Key Features
+Key Features
 Supports HTML, CSS, JavaScript
 Provides Web APIs (DOM, Fetch API, LocalStorage)
 Has a JavaScript Engine (like V8 in Chrome)
 Ensures security (sandboxing, HTTPS support)
 
--------------------------------------------------------------------
+====================================================================
 What is Node.js?
-
 Node.js is a JavaScript runtime environment that allows you to run JavaScript outside the browser, mainly on the server side.
 It is built on Chrome’s V8 JavaScript engine and is used to build backend applications, APIs, and real-time systems.
 --------------------------------------------------------
